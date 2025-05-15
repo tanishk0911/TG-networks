@@ -99,6 +99,7 @@ Welcome
     margin: 0 15px;
     font-weight: bold;
   }
+  <meta name="google-site-verification" content="d4hASePdM2T16JpypMUESKFixwO1DjqJXn9AZGqTzqU" />
 </style>
 </head>
 <body>
