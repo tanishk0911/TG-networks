@@ -104,6 +104,10 @@ Welcome
 </head>
 <body>
 
+<!-- Firebase SDKs -->
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-database-compat.js"></script>
+
 <div id="setup">
   <h2>Tic Tac Toe</h2>
   <input type="text" id="playerName" placeholder="Your Name (X)" />
